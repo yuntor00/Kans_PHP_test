@@ -3,7 +3,7 @@ echo "Hrllo world";
 
 $var = 'test';
 
-const NAME = 'Kostyasssss';
+const NAME = 'Kostyassssgit add 123 README.mds';
 define('PAME', 'KOstya123');
 
 
