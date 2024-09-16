@@ -3,7 +3,7 @@ echo "Hrllo world";
 
 $var = 'test';
 
-const NAME = 'Kostya';
+const NAME = 'Kostyasss';
 define('PAME', 'KOstya123');
 
 
